@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.be4840899556e5d39870a17f454b72dd.js"
+  "/precache-manifest.66184ec8dea3de1fe4cbcf471a263e9d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "laundry"});
